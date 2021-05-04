@@ -1,0 +1,53 @@
+{
+  "vehicleSales": [
+    {
+      "month": "Jan",
+      "numSold": "17.320"
+    },
+    {
+      "month": "Feb",
+      "numSold": "17.224"
+    },
+    {
+      "month": "Mar",
+      "numSold": "11.750"
+    },
+    {
+      "month": "Apr",
+      "numSold": "9.062"
+    },
+    {
+      "month": "May",
+      "numSold": "12.412"
+    },
+    {
+      "month": "Jun",
+      "numSold": "13.360"
+    },
+    {
+      "month": "Jul",
+      "numSold": "15.002"
+    },
+    {
+      "month": "Aug",
+      "numSold": "15.54"
+    },
+    {
+      "month": "Sep",
+      "numSold": "16.733"
+    },
+    {
+      "month": "Oct",
+      "numSold": "16.838"
+    },
+    {
+      "month": "Nov",
+      "numSold": "16.192"
+    },
+    {
+      "month": "Dec",
+      "numSold": "16.687"
+    }
+  ]
+
+}
