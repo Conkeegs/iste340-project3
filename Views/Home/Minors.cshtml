@@ -1,0 +1,17 @@
+﻿@model Project3_FinalExam.ViewModels.MinorViewModel
+
+@{
+    ViewData["Title"] = "Minors";
+}
+
+<link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"] <span id="homepage-RIT">RIT</span></h1>
+</div>
+<div>
+
+    @Model.Title
+    <p>@Model.Minors[0].description</p>
+
+</div>

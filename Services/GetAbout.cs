@@ -11,7 +11,7 @@ namespace Project3_FinalExam.Services
 {
     public class GetAbout : IGetAbout
     {
-        public async Task<List<About>> GetAllAbout()
+        public async Task<About> GetAllAbout()
         {
             using (var client = new HttpClient())
             {
@@ -25,31 +25,21 @@ namespace Project3_FinalExam.Services
                     response.EnsureSuccessStatusCode();
                     var data = await response.Content.ReadAsStringAsync();
 
-                    var rtnResults = JsonConvert.DeserializeObject<Dictionary<string, List<About>>>(data);
+                    var rtnResults = JsonConvert.DeserializeObject<About>(data);
 
-                    List<About> aboutList = new List<About>();
-
-                    foreach (KeyValuePair<string, List<About>> kvp in rtnResults)
-                    {
-                        foreach (var item in kvp.Value)
-                        {
-                            aboutList.Add(item);
-                        }
-                    }
-
-                    return aboutList;
+                    return rtnResults;
                 }
                 catch (HttpRequestException hre)
                 {
                     var msg = hre.Message;
-                    List<About> aboutList = new List<About>();
+                    About aboutList = new About();
                     return aboutList;
                     //return "HttpRequestException";
                 }
                 catch (Exception ex)
                 {
                     var msg = ex.Message;
-                    List<About> aboutList = new List<About>();
+                    About aboutList = new About();
                     return aboutList;
                     //return "Exception"; ;
                 }

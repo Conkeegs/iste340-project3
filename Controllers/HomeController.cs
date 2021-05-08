@@ -22,9 +22,15 @@ namespace Project3_FinalExam.Controllers
             _getAbout = getAbout;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var about = await _getAbout.GetAllAbout();
+            var aboutViewModel = new AboutViewModel()
+            {
+                About = about,
+                Title = "About Page"
+            };
+            return View(aboutViewModel);
         }
 
         public async Task<IActionResult> GetFaculty()
@@ -51,6 +57,30 @@ namespace Project3_FinalExam.Controllers
             return View(underViewModel);
         }
 
+        public async Task<IActionResult> Grad()
+        {
+            var getGrad = new GetGraduate();
+            var grad = await getGrad.GetUnderGradDegrees();
+            var gradViewModel = new GraduateViewModel()
+            {
+                Grads = grad,
+                Title = "Graduate Programs"
+            };
+            return View(gradViewModel);
+        }
+
+        public async Task<IActionResult> Minors()
+        {
+            var getMinors = new GetMinors();
+            var min = await getMinors.GetMinorList();
+            var minViewModel = new MinorViewModel()
+            {
+                Minors = min,
+                Title = "Minors"
+            };
+            return View(minViewModel);
+        }
+
         public async Task<IActionResult> GetEmployTable()
         {
             var getEmploy = new GetEmployment();
@@ -63,16 +93,6 @@ namespace Project3_FinalExam.Controllers
             return View(employmentViewModel);
         }
 
-        public async Task<IActionResult> GetAbout()
-        {
-            var allAbout = await _getAbout.GetAllAbout();
-            var aboutViewModel = new AboutViewModel()
-            {
-                About = allAbout.ToList(),
-                Title = "About Page"
-            };
-            return View(aboutViewModel);
-        }
 
         public IActionResult Privacy()
         {

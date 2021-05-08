@@ -28,7 +28,7 @@ namespace Project3_FinalExam.Services
                     var rtnResults = JsonConvert.DeserializeObject<Dictionary<string, List<Faculty>>>(data);
 
                     List<Faculty> facultyList = new List<Faculty>();
-                    Faculty faculty = new Faculty();
+                    //Faculty faculty = new Faculty();
 
                     foreach (KeyValuePair<string, List<Faculty>> kvp in rtnResults)
                     {

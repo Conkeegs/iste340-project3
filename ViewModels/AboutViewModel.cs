@@ -8,7 +8,7 @@ namespace Project3_FinalExam.ViewModels
 {
     public class AboutViewModel
     {
-        public List<About> About { get; set; }
+        public About About { get; set; }
         public string Title { get; set; }
 
     }

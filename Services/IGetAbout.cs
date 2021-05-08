@@ -6,6 +6,6 @@ namespace Project3_FinalExam.Services
 {
     public interface IGetAbout
     {
-        Task<List<About>> GetAllAbout();
+        Task<About> GetAllAbout();
     }
 }
