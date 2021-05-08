@@ -1,0 +1,18 @@
+﻿@model Project3_FinalExam.ViewModels.AboutViewModel
+
+@{
+    ViewData["Title"] = "About";
+}
+
+<link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"] <span id="homepage-RIT">RIT</span></h1>
+</div>
+<div>
+
+    <img src="~/images/homePageImage.jpeg" id="homepage-image" />
+    @*add text from 'about' API endpoint*@
+    @Model.Title
+
+</div>
