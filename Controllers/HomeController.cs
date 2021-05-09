@@ -19,8 +19,9 @@ namespace Project3_FinalExam.Controllers
         private readonly IGetGraduate _getGraduate;
         private readonly IGetMinors _getMinors;
         private readonly IGetUndergraduate _getUndergraduate;
+        private readonly IGetCoOp _getCoOp;
 
-        public HomeController(IGetFaculty facultyRepository, IGetAbout getAbout, IGetEmployment getEmployment, IGetGraduate getGraduate, IGetMinors getMinors, IGetUndergraduate getUndergraduate)
+        public HomeController(IGetFaculty facultyRepository, IGetAbout getAbout, IGetEmployment getEmployment, IGetGraduate getGraduate, IGetMinors getMinors, IGetUndergraduate getUndergraduate, IGetCoOp getCoOp)
         {
             _facultyRepository = facultyRepository;
             _getAbout = getAbout;
@@ -28,6 +29,7 @@ namespace Project3_FinalExam.Controllers
             _getGraduate = getGraduate;
             _getMinors = getMinors;
             _getUndergraduate = getUndergraduate;
+            _getCoOp = getCoOp;
         }
 
         public async Task<IActionResult> Index()
@@ -96,7 +98,16 @@ namespace Project3_FinalExam.Controllers
             };
             return View(employmentViewModel);
         }
-
+        public async Task<IActionResult> GetCoOpTable()
+        {
+            var coop = await _getCoOp.GetCoOpTable();
+            var coopViewModel = new CoOpViewModel()
+            {
+                CoOpTables = coop,
+                Title = "CoOp Options"
+            };
+            return View(coopViewModel);
+        }
 
         public IActionResult Privacy()
         {
