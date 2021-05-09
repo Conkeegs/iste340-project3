@@ -6258,19 +6258,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dareb\\.nuget\\packages\\": {}
+    "C:\\Users\\conke\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dareb\\Documents\\college\\Year2\\ISTE340\\project3\\Project3_FinalExam.csproj",
+      "projectUniqueName": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
       "projectName": "Project3_FinalExam",
-      "projectPath": "C:\\Users\\dareb\\Documents\\college\\Year2\\ISTE340\\project3\\Project3_FinalExam.csproj",
-      "packagesPath": "C:\\Users\\dareb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dareb\\Documents\\college\\Year2\\ISTE340\\project3\\obj\\",
+      "projectPath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
+      "packagesPath": "C:\\Users\\conke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dareb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\conke\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6327,7 +6331,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

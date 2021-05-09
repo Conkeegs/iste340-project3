@@ -13,7 +13,9 @@
 
     <img src="~/images/homePageImage.jpeg" id="homepage-image" />
     @*add text from 'about' API endpoint*@
-    @Model.Title
-    @Model.About.description
+    <h1 class="title">@Model.About.title</h1>
+    <p class="paragraph">@Model.About.description</p>
+    <p id="homepage-quote"><span>"</span>@Model.About.quote<span>"</span></p>
+    <span id="homepage-quote-author"> - @Model.About.quoteAuthor</span>
 
 </div>

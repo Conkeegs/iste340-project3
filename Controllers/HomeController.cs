@@ -15,11 +15,19 @@ namespace Project3_FinalExam.Controllers
     {
         private readonly IGetFaculty _facultyRepository;
         private readonly IGetAbout _getAbout;
+        private readonly IGetEmployment _getEmployment;
+        private readonly IGetGraduate _getGraduate;
+        private readonly IGetMinors _getMinors;
+        private readonly IGetUndergraduate _getUndergraduate;
 
-        public HomeController(IGetFaculty facultyRepository, IGetAbout getAbout)
+        public HomeController(IGetFaculty facultyRepository, IGetAbout getAbout, IGetEmployment getEmployment, IGetGraduate getGraduate, IGetMinors getMinors, IGetUndergraduate getUndergraduate)
         {
             _facultyRepository = facultyRepository;
             _getAbout = getAbout;
+            _getEmployment = getEmployment;
+            _getGraduate = getGraduate;
+            _getMinors = getMinors;
+            _getUndergraduate = getUndergraduate;
         }
 
         public async Task<IActionResult> Index()
@@ -47,8 +55,7 @@ namespace Project3_FinalExam.Controllers
 
         public async Task<IActionResult> Under()
         {
-            var getUnder = new GetUndergraduate();
-            var under = await getUnder.GetUnderGradDegrees();
+            var under = await _getUndergraduate.GetUnderGradDegrees();
             var underViewModel = new UndergradViewModel()
             {
                 UnderGrads = under,
@@ -59,8 +66,7 @@ namespace Project3_FinalExam.Controllers
 
         public async Task<IActionResult> Grad()
         {
-            var getGrad = new GetGraduate();
-            var grad = await getGrad.GetUnderGradDegrees();
+            var grad = await _getGraduate.GetUnderGradDegrees();
             var gradViewModel = new GraduateViewModel()
             {
                 Grads = grad,
@@ -71,8 +77,7 @@ namespace Project3_FinalExam.Controllers
 
         public async Task<IActionResult> Minors()
         {
-            var getMinors = new GetMinors();
-            var min = await getMinors.GetMinorList();
+            var min = await _getMinors.GetMinorList();
             var minViewModel = new MinorViewModel()
             {
                 Minors = min,
@@ -83,8 +88,7 @@ namespace Project3_FinalExam.Controllers
 
         public async Task<IActionResult> GetEmployTable()
         {
-            var getEmploy = new GetEmployment();
-            var employ = await getEmploy.GetEmployTable();
+            var employ = await _getEmployment.GetEmployTable();
             var employmentViewModel = new EmploymentViewModel()
             {
                 EmploymentTables = employ,

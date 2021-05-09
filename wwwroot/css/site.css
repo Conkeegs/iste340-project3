@@ -77,7 +77,7 @@ body {
 */
 #homepage-image {
 
-    margin: 4vh auto 4vh auto;
+    margin: 4vh auto 8vh auto;
     width: 55vw;
     display: block;
 
@@ -85,4 +85,33 @@ body {
 
 #homepage-RIT {
     color: #F76902;
+}
+
+#homepage-quote {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5vh 5vh 0 5vh;
+}
+
+#homepage-quote-author {
+    text-align: end;
+    color: #818486;
+    font-size: 25px;
+    width: 100%;
+    padding-right: 5vh;
+    display: block;
+}
+
+/*
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Styles common to all pages
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+.title {
+    color: #F76902;
+    font-weight: bold;
+}
+.paragraph {
+    color: #76797c;
 }

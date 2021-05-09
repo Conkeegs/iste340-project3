@@ -25,6 +25,10 @@ namespace Project3_FinalExam
         {
             services.AddTransient<IGetFaculty, GetFaculty>();
             services.AddTransient<IGetAbout, GetAbout>();
+            services.AddTransient<IGetEmployment, GetEmployment>();
+            services.AddTransient<IGetGraduate, GetGraduate>();
+            services.AddTransient<IGetMinors, GetMinors>();
+            services.AddTransient<IGetUndergraduate, GetUndergraduate>();
 
             services.AddControllersWithViews();
         }
@@ -50,7 +54,7 @@ namespace Project3_FinalExam
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Grad}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
