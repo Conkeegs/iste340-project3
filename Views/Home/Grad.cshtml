@@ -1,8 +1,19 @@
 ﻿@model Project3_FinalExam.ViewModels.GraduateViewModel
 
-<h2>@Model.Title</h2>
+@{
+    ViewData["Title"] = "Graduate Majors";
+}
 
-<div id="myGradDegrees"></div>
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+</div>
+
+<div id="graduate-div">
+
+    <h1 class="title">Graduate Majors</h1>
+    <div id="myGradDegrees"></div>
+
+</div>
 
 @foreach (var grad in Model.Grads)
 {
@@ -21,6 +32,23 @@
                 }
             </ul>
         </div>
+    }
+
+    @if (grad.availableCertificates != null)
+    {
+
+        <h3 id=@String.Concat("myHdng", grad.degreeName)><b>@grad.degreeName</b></h3>
+
+        <div id=@String.Concat("myDiv", grad.degreeName)>
+            <ul>
+                @foreach (var cert in @grad.availableCertificates)
+                {
+                    <li>@cert</li>
+
+                }
+            </ul>
+        </div>
+
     }
 }
 @*Get jQuery and jQueryUI Scripts from wwwroot*@

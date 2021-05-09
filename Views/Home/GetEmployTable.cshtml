@@ -1,8 +1,19 @@
 ﻿@model Project3_FinalExam.ViewModels.EmploymentViewModel
 
-<h2>@Model.Title</h2>
+@{
+    ViewData["Title"] = "Employment";
+}
 
-<div id="jsGrid"></div>
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+</div>
+
+<div id="table-div">
+
+    <h1 class="title">Employment Options</h1>
+    <div id="jsGrid"></div>
+
+</div>
 
 <script src="~/jquery/jquery.js"></script>
 <script src="~/jqueryui/jquery-ui.js"></script>
@@ -10,6 +21,7 @@
 <link href="~/jsgrid/jsgrid.min.css" rel="stylesheet" type="text/css" />
 <link href="~/jsgrid/jsgrid-theme.min.css" rel="stylesheet" type="text/css" />
 <script src="~/jsgrid/jsgrid.min.js"></script>
+<link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
 
 <script>
 

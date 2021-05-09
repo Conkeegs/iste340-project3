@@ -103,15 +103,85 @@ body {
     display: block;
 }
 
+#index-div {
+
+    margin: 5vh;
+
+}
+
 /*
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-    Styles common to all pages
+    Styles for 'GetFaculty.cshtml' page
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+#faculty-div {
+    margin: 5vh;
+}
+
+/*
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Styles for 'Grad.cshtml' page
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+#graduate-div {
+    margin: 5vh;
+}
+
+/*
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Styles for 'Under.cshtml' page
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+#under-div {
+
+    margin: 5vh;
+
+}
+
+/*
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Styles common to multiple pages
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 */
 .title {
     color: #F76902;
     font-weight: bold;
+    margin-bottom: 2vh;
 }
 .paragraph {
     color: #76797c;
+}
+#table-div {
+    margin: 5vh;
+}
+.ui-accordion-header {
+    background: #d3d6d2 !important;
+    border: 1px solid #d3d6d2 !important;
+    color: black !important;
+    font-size: 25px !important;
+}
+
+.ui-widget-content {
+    border: 1px solid #eef0ed !important;
+    background: #eef0ed !important;
+    color: black !important;
+}
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-bottom-right-radius: 0 !important;
+}
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl {
+    border-bottom-left-radius: 0 !important;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+    border-top-right-radius: 0 !important;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl {
+    border-top-left-radius: 0 !important;
 }

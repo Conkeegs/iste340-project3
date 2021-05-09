@@ -1,8 +1,19 @@
 ﻿@model Project3_FinalExam.ViewModels.UndergradViewModel
 
-<h2>@Model.Title</h2>
+@{
+    ViewData["Title"] = "Undergraduate Majors";
+}
 
-<div id="myUnderDegrees"></div>
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+</div>
+
+<div id="under-div">
+
+    <h1 class="title">Undergraduate Majors</h1>
+    <div id="myUnderDegrees"></div>
+
+</div>
 
 @foreach (var under in Model.UnderGrads)
 {
