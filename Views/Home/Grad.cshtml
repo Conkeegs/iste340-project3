@@ -19,7 +19,7 @@
 {
     @if (grad.concentrations != null)
     {
-        <h3 id=@String.Concat("myHdng", grad.degreeName)><b>@grad.degreeName</b></h3>
+        <h3 id=@String.Concat("myHdng", grad.degreeName)><b>@grad.degreeName.ToUpper()</b></h3>
 
         <div id=@String.Concat("myDiv", grad.degreeName)>
             <p>@grad.title</p>
@@ -37,7 +37,7 @@
     @if (grad.availableCertificates != null)
     {
 
-        <h3 id=@String.Concat("myHdng", grad.degreeName)><b>@grad.degreeName</b></h3>
+        <h3 id=@String.Concat("myHdng", grad.degreeName)><b>@grad.degreeName.ToUpper()</b></h3>
 
         <div id=@String.Concat("myDiv", grad.degreeName)>
             <ul>

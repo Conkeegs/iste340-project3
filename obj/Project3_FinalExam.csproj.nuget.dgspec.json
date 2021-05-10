@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj": {}
+    "C:\\Users\\harsh\\OneDrive\\Desktop\\iste340-project3\\Project3_FinalExam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj": {
+    "C:\\Users\\harsh\\OneDrive\\Desktop\\iste340-project3\\Project3_FinalExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
+        "projectUniqueName": "C:\\Users\\harsh\\OneDrive\\Desktop\\iste340-project3\\Project3_FinalExam.csproj",
         "projectName": "Project3_FinalExam",
-        "projectPath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
-        "packagesPath": "C:\\Users\\conke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\obj\\",
+        "projectPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\iste340-project3\\Project3_FinalExam.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\iste340-project3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\conke\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -74,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

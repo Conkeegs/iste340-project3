@@ -17,7 +17,7 @@
 
 @foreach (var under in Model.UnderGrads)
 {
-    <h3 id=@String.Concat("myHdng", under.degreeName)><b>@under.degreeName</b></h3>
+    <h3 id=@String.Concat("myHdng", under.degreeName)><b>@under.degreeName.ToUpper()</b></h3>
 
     <div id=@String.Concat("myDiv", under.degreeName)>
         <p>@under.title</p>

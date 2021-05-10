@@ -12,6 +12,9 @@ a {
   color: #0366d6;
 }
 
+
+
+
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
@@ -56,13 +59,15 @@ button.accept-policy {
 html {
   position: relative;
   min-height: 100%;
+
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-image: radial-gradient(circle at center center, rgb(249, 249, 249),rgb(167, 167, 167));
 }
-.footer {
+    .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -80,7 +85,11 @@ body {
     margin: 4vh auto 8vh auto;
     width: 55vw;
     display: block;
-
+    border-style: solid;
+    border-color: black;
+    border-radius: 50px;
+    border-width:thick;
+    
 }
 
 #homepage-RIT {
@@ -103,10 +112,23 @@ body {
     display: block;
 }
 
+
 #index-div {
 
     margin: 5vh;
 
+}
+
+#paragraph-div{
+    color: black;
+}
+
+#info-div{
+    background-color:white;
+    border:ridge;
+    border-color: orange;
+    
+    border-left-color:orange;
 }
 
 /*
@@ -117,6 +139,19 @@ body {
 
 #faculty-div {
     margin: 5vh;
+   
+}
+
+#faculty-img {
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+#faculty-name{
+    margin-left: 20px;
+    font-size:medium;
+    margin-top: 20px;
 }
 
 /*
@@ -153,6 +188,9 @@ body {
 }
 .paragraph {
     color: #76797c;
+}
+.footer{
+    background-color:white;
 }
 #table-div {
     margin: 5vh;
