@@ -2950,7 +2950,6 @@
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -3003,6 +3002,7 @@
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
@@ -3321,6 +3321,7 @@
       "path": "system.composition.attributedmodel/1.0.31",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Composition.AttributedModel.dll",
@@ -3335,7 +3336,6 @@
       "path": "system.composition.convention/1.0.31",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Composition.Convention.dll",
@@ -3378,7 +3378,6 @@
       "path": "system.composition.typedparts/1.0.31",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Composition.TypedParts.dll",
@@ -4592,6 +4591,7 @@
       "path": "system.reflection.emit/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4627,6 +4627,7 @@
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4671,6 +4672,7 @@
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5420,6 +5422,7 @@
       "path": "system.security.cryptography.cng/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net46/System.Security.Cryptography.Cng.dll",
@@ -6258,30 +6261,12 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     "C:\\Users\\conke\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-=======
-    "C:\\Users\\Max Gerber\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
-=======
-    "C:\\Users\\Max Gerber\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
-=======
-    "C:\\Users\\Max Gerber\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
       "projectName": "Project3_FinalExam",
       "projectPath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
@@ -6293,48 +6278,6 @@
       ],
       "configFilePaths": [
         "C:\\Users\\conke\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
-      "projectName": "Project3_FinalExam",
-      "projectPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
-      "packagesPath": "C:\\Users\\Max Gerber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\Max Gerber\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
-=======
-      "projectUniqueName": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
-      "projectName": "Project3_FinalExam",
-      "projectPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
-      "packagesPath": "C:\\Users\\Max Gerber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\Max Gerber\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
-=======
-      "projectUniqueName": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
-      "projectName": "Project3_FinalExam",
-      "projectPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
-      "packagesPath": "C:\\Users\\Max Gerber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\Max Gerber\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6394,5 +6337,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
