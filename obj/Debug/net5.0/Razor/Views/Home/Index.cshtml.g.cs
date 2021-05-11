@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "cea2bbd0d9f2f61c077983de7bf663968119e7fc"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "cea2bbd0d9f2f61c077983de7bf663968119e7fc"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "cea2bbd0d9f2f61c077983de7bf663968119e7fc"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -23,7 +27,11 @@ namespace AspNetCore
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -38,7 +46,11 @@ using Project3_FinalExam;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -87,7 +99,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -103,7 +119,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cea2bbd0d9f2f61c077983de7bf663968119e7fc5014", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cea2bbd0d9f2f61c077983de7bf663968119e7fc4866", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cea2bbd0d9f2f61c077983de7bf663968119e7fc4866", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -122,7 +142,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 7 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 7 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 7 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -146,7 +170,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 10 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 10 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 10 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -161,7 +189,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
             WriteLiteral(" <span id=\"homepage-RIT\">RIT</span></h1>\r\n</div>\r\n<div id=\"index-div\">\r\n\r\n\r\n    ");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cea2bbd0d9f2f61c077983de7bf663968119e7fc7426", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cea2bbd0d9f2f61c077983de7bf663968119e7fc7204", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cea2bbd0d9f2f61c077983de7bf663968119e7fc7204", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -186,7 +218,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 21 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 21 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 21 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -202,7 +238,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 22 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -218,7 +258,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 26 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 26 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 26 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -234,7 +278,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 27 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Index.cshtml"
+=======
+#line 27 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 27 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Index.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

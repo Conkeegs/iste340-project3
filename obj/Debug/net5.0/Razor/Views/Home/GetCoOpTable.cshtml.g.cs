@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetCoOpTable.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "8db3606c174fce95cce84f3e7871914e474b5356"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "11c100a85dd6353c0728c9b61934f86644a8252b"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "11c100a85dd6353c0728c9b61934f86644a8252b"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -23,7 +27,11 @@ namespace AspNetCore
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -38,7 +46,11 @@ using Project3_FinalExam;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -52,7 +64,11 @@ using Project3_FinalExam.Models;
 #nullable disable
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8db3606c174fce95cce84f3e7871914e474b5356", @"/Views/Home/GetCoOpTable.cshtml")]
+=======
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"11c100a85dd6353c0728c9b61934f86644a8252b", @"/Views/Home/GetCoOpTable.cshtml")]
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"11c100a85dd6353c0728c9b61934f86644a8252b", @"/Views/Home/GetCoOpTable.cshtml")]
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -99,7 +115,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -116,7 +136,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+=======
+#line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -131,7 +155,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"table-div\">\r\n\r\n    <h1 class=\"title\">Co-op</h1>\r\n    <div id=\"jsGrid\"></div>\r\n\r\n</div>\r\n\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8db3606c174fce95cce84f3e7871914e474b53566975", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11c100a85dd6353c0728c9b61934f86644a8252b6790", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11c100a85dd6353c0728c9b61934f86644a8252b6790", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -153,7 +181,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8db3606c174fce95cce84f3e7871914e474b53568014", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11c100a85dd6353c0728c9b61934f86644a8252b7829", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11c100a85dd6353c0728c9b61934f86644a8252b7829", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -175,7 +207,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8db3606c174fce95cce84f3e7871914e474b53569053", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "11c100a85dd6353c0728c9b61934f86644a8252b8868", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "11c100a85dd6353c0728c9b61934f86644a8252b8868", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -199,7 +235,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8db3606c174fce95cce84f3e7871914e474b535610250", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "11c100a85dd6353c0728c9b61934f86644a8252b10065", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "11c100a85dd6353c0728c9b61934f86644a8252b10065", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -223,7 +263,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8db3606c174fce95cce84f3e7871914e474b535611448", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11c100a85dd6353c0728c9b61934f86644a8252b11263", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11c100a85dd6353c0728c9b61934f86644a8252b11263", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -245,7 +289,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8db3606c174fce95cce84f3e7871914e474b535612488", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "11c100a85dd6353c0728c9b61934f86644a8252b12303", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "11c100a85dd6353c0728c9b61934f86644a8252b12303", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -264,7 +312,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 24 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+=======
+#line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -288,7 +340,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+=======
+#line 29 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 29 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetCoOpTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "5eb26fd86b6b4d21c48708c3be3589307986ac32"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "5eb26fd86b6b4d21c48708c3be3589307986ac32"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "5eb26fd86b6b4d21c48708c3be3589307986ac32"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -23,7 +27,11 @@ namespace AspNetCore
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -38,7 +46,11 @@ using Project3_FinalExam;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

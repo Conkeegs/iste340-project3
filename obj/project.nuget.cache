@@ -2,6 +2,7 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "svWSDH0wwBU5slB+EFNYqv9gh5FDR4YnJtLTcC7a4yrJWCmJ/qBxOCFmeLYlCjQzNlSQlY1J4Stn+kUzxpkCLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
@@ -128,6 +129,12 @@
   "projectFilePath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
   "expectedPackageFiles": [
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+  "dgSpecHash": "ez+lKJYFD+niaevz/xfQ0CWt7sLEwnDUA3/RPxHvDKwUhM0lb9UYsIfOAuE75c7dsb5O5iCEu/Sa3b0ueE1yBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
+  "expectedPackageFiles": [
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
     "C:\\Users\\Max Gerber\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Max Gerber\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Max Gerber\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.4\\microsoft.aspnetcore.mvc.razor.extensions.5.0.4.nupkg.sha512",
@@ -240,6 +247,9 @@
     "C:\\Users\\Max Gerber\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Max Gerber\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

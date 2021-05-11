@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetEmployTable.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4eb4bf013167f2763e478fcb8c3be1e53641784e"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "13d061a60402e797479d4f973c862031f33421a7"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "13d061a60402e797479d4f973c862031f33421a7"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -23,7 +27,11 @@ namespace AspNetCore
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -38,7 +46,11 @@ using Project3_FinalExam;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -91,7 +103,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetEmployTable.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -108,7 +124,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetEmployTable.cshtml"
+=======
+#line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -123,7 +143,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"table-div\">\r\n\r\n    <h1 class=\"title\">Employment Options</h1>\r\n    <div id=\"jsGrid\"></div>\r\n\r\n</div>\r\n\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4eb4bf013167f2763e478fcb8c3be1e53641784e7013", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d061a60402e797479d4f973c862031f33421a76828", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d061a60402e797479d4f973c862031f33421a76828", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -145,7 +169,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4eb4bf013167f2763e478fcb8c3be1e53641784e8052", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d061a60402e797479d4f973c862031f33421a77867", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d061a60402e797479d4f973c862031f33421a77867", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -167,7 +195,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4eb4bf013167f2763e478fcb8c3be1e53641784e9091", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "13d061a60402e797479d4f973c862031f33421a78906", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "13d061a60402e797479d4f973c862031f33421a78906", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -191,7 +223,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4eb4bf013167f2763e478fcb8c3be1e53641784e10288", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "13d061a60402e797479d4f973c862031f33421a710103", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "13d061a60402e797479d4f973c862031f33421a710103", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -215,7 +251,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4eb4bf013167f2763e478fcb8c3be1e53641784e11486", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d061a60402e797479d4f973c862031f33421a711301", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13d061a60402e797479d4f973c862031f33421a711301", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -237,7 +277,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4eb4bf013167f2763e478fcb8c3be1e53641784e12526", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "13d061a60402e797479d4f973c862031f33421a712341", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "13d061a60402e797479d4f973c862031f33421a712341", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -256,7 +300,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 24 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetEmployTable.cshtml"
+=======
+#line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -280,7 +328,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetEmployTable.cshtml"
+=======
+#line 29 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 29 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetEmployTable.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "5e7b4b97193b9703ef89f195ecde92331638e9a6"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b5451b736112b0ec1a15b1592749f5f6bad0d0fd"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "b5451b736112b0ec1a15b1592749f5f6bad0d0fd"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -23,7 +27,11 @@ namespace AspNetCore
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -38,7 +46,11 @@ using Project3_FinalExam;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -52,7 +64,11 @@ using Project3_FinalExam.Models;
 #nullable disable
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5e7b4b97193b9703ef89f195ecde92331638e9a6", @"/Views/Home/GetFaculty.cshtml")]
+=======
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5451b736112b0ec1a15b1592749f5f6bad0d0fd", @"/Views/Home/GetFaculty.cshtml")]
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5451b736112b0ec1a15b1592749f5f6bad0d0fd", @"/Views/Home/GetFaculty.cshtml")]
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -96,7 +112,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -113,7 +133,11 @@ using Project3_FinalExam.Models;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -127,9 +151,15 @@ using Project3_FinalExam.Models;
 #nullable disable
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"faculty-div\">\r\n\r\n    <h1 class=\"title\" style=\"margin-left: 360px;\">Your Faculty</h1>\r\n");
 #nullable restore
 #line 14 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+            WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"faculty-div\">\r\n\r\n    <h1 class=\"title\" style=\"margin-left: 20px;\">Your Faculty</h1>\r\n");
+#nullable restore
+#line 14 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"faculty-div\">\r\n\r\n    <h1 class=\"title\" style=\"margin-left: 20px;\">Your Faculty</h1>\r\n");
 #nullable restore
@@ -149,6 +179,7 @@ using Project3_FinalExam.Models;
             WriteLiteral("        <div class=\"row\">\r\n            <div class=\"col-sm-3\">\r\n                <div class=\"thumbnail\"");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("id", " id=", 468, "", 510, 1);
 #nullable restore
 #line 18 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
@@ -156,11 +187,16 @@ WriteAttributeValue("", 472, String.Concat("myDiv:", i.ToString()), 472, 38, fal
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("id", " id=", 467, "", 509, 1);
 #nullable restore
 #line 18 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 471, String.Concat("myDiv:", i.ToString()), 471, 38, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -170,6 +206,7 @@ WriteAttributeValue("", 471, String.Concat("myDiv:", i.ToString()), 471, 38, fal
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(" onclick=\"getName(id)\">\r\n                    <img");
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 559, "\"", 592, 1);
@@ -187,12 +224,19 @@ WriteAttributeValue("", 564, Model.Faculty[i].imagePath, 564, 27, false);
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+            BeginWriteAttribute("src", " src=\"", 558, "\"", 591, 1);
+#nullable restore
+#line 19 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+WriteAttributeValue("", 564, Model.Faculty[i].imagePath, 564, 27, false);
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 
 #line default
 #line hidden
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(" id=\"faculty-img\" style=\"height:160px;width:150px; \"");
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             BeginWriteAttribute("alt", " alt=\"", 645, "\"", 651, 0);
@@ -203,12 +247,17 @@ WriteAttributeValue("", 564, Model.Faculty[i].imagePath, 564, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("alt", " alt=\"", 644, "\"", 650, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3 id=\"faculty-name\">\r\n                        ");
 #nullable restore
 #line 23 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -221,7 +270,11 @@ WriteAttributeValue("", 564, Model.Faculty[i].imagePath, 564, 27, false);
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 27 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 27 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 27 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -243,6 +296,7 @@ WriteAttributeValue("", 564, Model.Faculty[i].imagePath, 564, 27, false);
 #line hidden
 #nullable disable
             WriteLiteral("            <div class=\"col-sm-3\">\r\n                <div class=\"thumbnail\"");
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             BeginWriteAttribute("id", " id=", 1190, "", 1232, 1);
@@ -261,12 +315,19 @@ WriteAttributeValue("", 1193, String.Concat("myDiv:", i.ToString()), 1193, 38, f
 #line 38 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 1193, String.Concat("myDiv:", i.ToString()), 1193, 38, false);
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+            BeginWriteAttribute("id", " id=", 1189, "", 1231, 1);
+#nullable restore
+#line 38 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+WriteAttributeValue("", 1193, String.Concat("myDiv:", i.ToString()), 1193, 38, false);
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 
 #line default
 #line hidden
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(" onclick=\"getName(id)\">\r\n                    <img");
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 1281, "\"", 1314, 1);
@@ -276,11 +337,16 @@ WriteAttributeValue("", 1287, Model.Faculty[i].imagePath, 1287, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("src", " src=\"", 1280, "\"", 1313, 1);
 #nullable restore
 #line 39 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 1286, Model.Faculty[i].imagePath, 1286, 27, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -292,6 +358,7 @@ WriteAttributeValue("", 1286, Model.Faculty[i].imagePath, 1286, 27, false);
             WriteLiteral(" id=\"faculty-img\" style=\"height:160px;width:150px\"");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("alt", " alt=\"", 1365, "\"", 1371, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3 id=\"faculty-name\">\r\n                        ");
@@ -300,12 +367,17 @@ WriteAttributeValue("", 1286, Model.Faculty[i].imagePath, 1286, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("alt", " alt=\"", 1364, "\"", 1370, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3 id=\"faculty-name\">\r\n                        ");
 #nullable restore
 #line 43 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -318,7 +390,11 @@ WriteAttributeValue("", 1286, Model.Faculty[i].imagePath, 1286, 27, false);
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 47 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 47 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 47 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -340,6 +416,7 @@ WriteAttributeValue("", 1286, Model.Faculty[i].imagePath, 1286, 27, false);
 #line hidden
 #nullable disable
             WriteLiteral("            <div class=\"col-sm-3\">\r\n                <div class=\"thumbnail\"");
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             BeginWriteAttribute("id", " id=", 1910, "", 1952, 1);
@@ -358,12 +435,19 @@ WriteAttributeValue("", 1913, String.Concat("myDiv:", i.ToString()), 1913, 38, f
 #line 58 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 1913, String.Concat("myDiv:", i.ToString()), 1913, 38, false);
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+            BeginWriteAttribute("id", " id=", 1909, "", 1951, 1);
+#nullable restore
+#line 58 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+WriteAttributeValue("", 1913, String.Concat("myDiv:", i.ToString()), 1913, 38, false);
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 
 #line default
 #line hidden
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(" onclick=\"getName(id)\">\r\n                    <img");
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 2001, "\"", 2034, 1);
@@ -373,11 +457,16 @@ WriteAttributeValue("", 2007, Model.Faculty[i].imagePath, 2007, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("src", " src=\"", 2000, "\"", 2033, 1);
 #nullable restore
 #line 59 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 2006, Model.Faculty[i].imagePath, 2006, 27, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -389,6 +478,7 @@ WriteAttributeValue("", 2006, Model.Faculty[i].imagePath, 2006, 27, false);
             WriteLiteral(" id=\"faculty-img\" style=\"height:160px;width:150px\"");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("alt", " alt=\"", 2085, "\"", 2091, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3  id=\"faculty-name\">\r\n                        ");
@@ -397,12 +487,17 @@ WriteAttributeValue("", 2006, Model.Faculty[i].imagePath, 2006, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("alt", " alt=\"", 2084, "\"", 2090, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3  id=\"faculty-name\">\r\n                        ");
 #nullable restore
 #line 63 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -415,7 +510,11 @@ WriteAttributeValue("", 2006, Model.Faculty[i].imagePath, 2006, 27, false);
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 67 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 67 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 67 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -439,10 +538,17 @@ WriteAttributeValue("", 2006, Model.Faculty[i].imagePath, 2006, 27, false);
             WriteLiteral("            <div class=\"col-sm-3\">\r\n                <div class=\"thumbnail\"");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("id", " id=", 2631, "", 2673, 1);
 #nullable restore
 #line 78 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 2635, String.Concat("myDiv:", i.ToString()), 2635, 38, false);
+=======
+            BeginWriteAttribute("id", " id=", 2630, "", 2672, 1);
+#nullable restore
+#line 78 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+WriteAttributeValue("", 2634, String.Concat("myDiv:", i.ToString()), 2634, 38, false);
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             BeginWriteAttribute("id", " id=", 2630, "", 2672, 1);
 #nullable restore
@@ -463,6 +569,7 @@ WriteAttributeValue("", 2634, String.Concat("myDiv:", i.ToString()), 2634, 38, f
             WriteLiteral(" onclick=\"getName(id)\">\r\n                    <img");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("src", " src=\"", 2722, "\"", 2755, 1);
 #nullable restore
 #line 79 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
@@ -470,11 +577,16 @@ WriteAttributeValue("", 2728, Model.Faculty[i].imagePath, 2728, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("src", " src=\"", 2721, "\"", 2754, 1);
 #nullable restore
 #line 79 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -486,6 +598,7 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
             WriteLiteral(" id=\"faculty-img\" style=\"height:160px;width:150px\"");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             BeginWriteAttribute("alt", " alt=\"", 2806, "\"", 2812, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3  id=\"faculty-name\">\r\n                        ");
@@ -494,12 +607,17 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
 =======
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             BeginWriteAttribute("alt", " alt=\"", 2805, "\"", 2811, 0);
             EndWriteAttribute();
             WriteLiteral(" />\r\n                </div>\r\n                <div class=\"caption\">\r\n                    <h3  id=\"faculty-name\">\r\n                        ");
 #nullable restore
 #line 83 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -512,7 +630,11 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 90 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 90 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 90 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -527,7 +649,11 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
             WriteLiteral("\r\n</div>\r\n<div id=\"dialog\"></div>\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e7b4b97193b9703ef89f195ecde92331638e9a614716", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd13901", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd13901", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -549,7 +675,11 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "5e7b4b97193b9703ef89f195ecde92331638e9a615756", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd14941", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd14941", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -572,7 +702,11 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e7b4b97193b9703ef89f195ecde92331638e9a616872", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd16057", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd16057", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -594,7 +728,11 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
             WriteLiteral("\r\n");
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5e7b4b97193b9703ef89f195ecde92331638e9a617912", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd17097", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b5451b736112b0ec1a15b1592749f5f6bad0d0fd17097", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -613,7 +751,11 @@ WriteAttributeValue("", 2727, Model.Faculty[i].imagePath, 2727, 27, false);
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 98 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 98 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 98 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -637,7 +779,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 101 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\GetFaculty.cshtml"
+=======
+#line 101 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 101 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\GetFaculty.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
