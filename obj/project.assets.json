@@ -6258,12 +6258,18 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\conke\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+=======
+    "C:\\Users\\Max Gerber\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
       "projectName": "Project3_FinalExam",
       "projectPath": "C:\\Users\\conke\\Desktop\\Projects\\C# Projects\\ISTE-340\\Project3_StarterCode\\iste340-project3\\Project3_FinalExam.csproj",
@@ -6275,6 +6281,20 @@
       ],
       "configFilePaths": [
         "C:\\Users\\conke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
+      "projectName": "Project3_FinalExam",
+      "projectPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\Project3_FinalExam.csproj",
+      "packagesPath": "C:\\Users\\Max Gerber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Max Gerber\\Documents\\GitHub\\iste340-project3\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Max Gerber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
