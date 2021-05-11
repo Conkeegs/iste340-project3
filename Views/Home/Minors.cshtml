@@ -4,14 +4,41 @@
     ViewData["Title"] = "Minors";
 }
 
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+</div>
+
+<div id="table-div">
+
+    <h1 class="title">Undergraduate Minors</h1>
+    <div id="jsGrid"></div>
+
+</div>
+
+<script src="~/jquery/jquery.js"></script>
+<script src="~/jqueryui/jquery-ui.js"></script>
+@*Get jsGrid scripts from wwwroot*@
+<link href="~/jsgrid/jsgrid.min.css" rel="stylesheet" type="text/css" />
+<link href="~/jsgrid/jsgrid-theme.min.css" rel="stylesheet" type="text/css" />
+<script src="~/jsgrid/jsgrid.min.js"></script>
 <link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
 
-<div class="text-center">
-    <h1 class="display-4">@ViewData["Title"] <span id="homepage-RIT">RIT</span></h1>
-</div>
-<div>
+<script>
 
-    @Model.Title
-    <p>@Model.Minors[0].description</p>
+    $("#jsGrid").jsGrid({
+        data: @Html.Raw(Json.Serialize(Model.Minors)),
+        width: "100%",
+        height: "600px",
 
-</div>
+        sorting: true,
+        paging: true,
+
+        fields: [
+            { name: "name", type: "text" },
+            { name: "title", type: "text" },
+            { name: "description", type: "text", width: 400 },
+            { name: "courses", type: "text" },
+        ]
+    });
+
+</script>

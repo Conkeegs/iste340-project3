@@ -181,6 +181,11 @@ body {
     Styles common to multiple pages
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 */
+.jsgrid-cell {
+
+    padding: 20px !important;
+
+}
 .title {
     color: #F76902;
     font-weight: bold;
