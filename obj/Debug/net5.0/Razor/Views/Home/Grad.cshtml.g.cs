@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "da32ef126274645270ea1c31eaf51d89ff6349f9"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "da32ef126274645270ea1c31eaf51d89ff6349f9"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "da32ef126274645270ea1c31eaf51d89ff6349f9"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -29,7 +37,11 @@ using Project3_FinalExam;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -73,7 +85,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -86,7 +102,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n<div class=\"text-center\">\r\n    <h1 class=\"display-4\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -98,7 +118,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"graduate-div\">\r\n\r\n    <h1 class=\"title\">Graduate Majors</h1>\r\n    <div id=\"myGradDegrees\"></div>\r\n\r\n</div>\r\n\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 18 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 18 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 18 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -111,7 +135,11 @@ using Project3_FinalExam.Models;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 20 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 20 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 20 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -125,7 +153,11 @@ using Project3_FinalExam.Models;
             BeginWriteAttribute("id", " id=", 414, "", 459, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 22 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -138,7 +170,11 @@ WriteAttributeValue("", 418, String.Concat("myHdng", grad.degreeName), 418, 41, 
             WriteLiteral("><b>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 22 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -152,7 +188,11 @@ WriteAttributeValue("", 418, String.Concat("myHdng", grad.degreeName), 418, 41, 
             BeginWriteAttribute("id", " id=", 514, "", 558, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 24 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -165,7 +205,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             WriteLiteral(">\r\n            <p>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 25 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 25 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 25 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -177,7 +221,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             WriteLiteral("</p>\r\n            <p>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 26 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 26 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 26 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -189,7 +237,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             WriteLiteral("</p>\r\n            <ul>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 28 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 28 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 28 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -202,7 +254,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             WriteLiteral("                    <li>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 30 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 30 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 30 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -214,7 +270,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             WriteLiteral("</li>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 31 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 31 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 31 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -227,7 +287,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             WriteLiteral("            </ul>\r\n        </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 35 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 35 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 35 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -238,7 +302,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 37 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 37 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 37 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -253,7 +321,11 @@ WriteAttributeValue("", 518, String.Concat("myDiv", grad.degreeName), 518, 40, f
             BeginWriteAttribute("id", " id=", 896, "", 941, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 40 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 40 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 40 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -266,7 +338,11 @@ WriteAttributeValue("", 900, String.Concat("myHdng", grad.degreeName), 900, 41, 
             WriteLiteral("><b>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 40 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 40 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 40 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -280,7 +356,11 @@ WriteAttributeValue("", 900, String.Concat("myHdng", grad.degreeName), 900, 41, 
             BeginWriteAttribute("id", " id=", 996, "", 1040, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 42 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 42 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 42 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -293,7 +373,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
             WriteLiteral(">\r\n            <ul>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 44 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 44 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 44 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -306,7 +390,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
             WriteLiteral("                    <li>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 46 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 46 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 46 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -318,7 +406,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
             WriteLiteral("</li>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 47 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 47 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 47 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -331,7 +423,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
             WriteLiteral("            </ul>\r\n        </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 51 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 51 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 51 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -343,7 +439,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 52 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Grad.cshtml"
+=======
+#line 52 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 52 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Grad.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -354,7 +454,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
 #line hidden
 #nullable disable
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da32ef126274645270ea1c31eaf51d89ff6349f911691", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da32ef126274645270ea1c31eaf51d89ff6349f910766", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da32ef126274645270ea1c31eaf51d89ff6349f910766", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -372,7 +476,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "da32ef126274645270ea1c31eaf51d89ff6349f912731", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "da32ef126274645270ea1c31eaf51d89ff6349f911806", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "da32ef126274645270ea1c31eaf51d89ff6349f911806", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -391,7 +499,11 @@ WriteAttributeValue("", 1000, String.Concat("myDiv", grad.degreeName), 1000, 40,
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da32ef126274645270ea1c31eaf51d89ff6349f913847", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da32ef126274645270ea1c31eaf51d89ff6349f912922", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da32ef126274645270ea1c31eaf51d89ff6349f912922", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

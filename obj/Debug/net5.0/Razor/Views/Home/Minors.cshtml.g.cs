@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Minors.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "ec8178d24124109e9e9fffbfa9b9478e27b99c8a"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3e6aafec68f2233c8dffd5f44b1e6c4593ce320d"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3e6aafec68f2233c8dffd5f44b1e6c4593ce320d"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -29,7 +37,11 @@ using Project3_FinalExam;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -78,7 +90,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Minors.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -158,6 +174,7 @@ using Project3_FinalExam.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ec8178d24124109e9e9fffbfa9b9478e27b99c8a11423", async() => {
             }
             );
@@ -176,6 +193,9 @@ using Project3_FinalExam.Models;
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3e6aafec68f2233c8dffd5f44b1e6c4593ce320d4157", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3e6aafec68f2233c8dffd5f44b1e6c4593ce320d4157", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -187,7 +207,11 @@ using Project3_FinalExam.Models;
             __tagHelperExecutionContext.AddHtmlAttribute(__tagHelperAttribute_3);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 24 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Minors.cshtml"
+=======
+#line 7 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 7 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -207,9 +231,12 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper.AppendVersion = true;
             WriteLiteral("\r\n\r\n<script>\r\n\r\n    $(\"#jsGrid\").jsGrid({\r\n        data: ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Minors.cshtml"
          Write(Html.Raw(Json.Serialize(Model.Minors)));
 =======
+=======
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 #line 10 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Minors.cshtml"
                      Write(ViewData["Title"]);
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3

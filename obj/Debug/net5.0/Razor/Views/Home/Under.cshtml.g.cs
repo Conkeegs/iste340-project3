@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "8c4e9af3aee7bf48bd1cfead30a3d48a31804453"
+=======
+#pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "8c4e9af3aee7bf48bd1cfead30a3d48a31804453"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #pragma checksum "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "8c4e9af3aee7bf48bd1cfead30a3d48a31804453"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -18,7 +22,11 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 1 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -29,7 +37,11 @@ using Project3_FinalExam;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 2 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\_ViewImports.cshtml"
+=======
+#line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 2 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\_ViewImports.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -73,7 +85,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 3 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -86,7 +102,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("\r\n<div class=\"text-center\">\r\n    <h1 class=\"display-4\">");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 8 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 8 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -98,7 +118,11 @@ using Project3_FinalExam.Models;
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"under-div\">\r\n\r\n    <h1 class=\"title\">Undergraduate Majors</h1>\r\n    <div id=\"myUnderDegrees\"></div>\r\n\r\n</div>\r\n\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 18 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 18 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 18 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -112,7 +136,11 @@ using Project3_FinalExam.Models;
             BeginWriteAttribute("id", " id=", 379, "", 425, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 20 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 20 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 20 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -125,7 +153,11 @@ WriteAttributeValue("", 383, String.Concat("myHdng", under.degreeName), 383, 42,
             WriteLiteral("><b>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 20 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 20 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 20 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -139,7 +171,11 @@ WriteAttributeValue("", 383, String.Concat("myHdng", under.degreeName), 383, 42,
             BeginWriteAttribute("id", " id=", 477, "", 522, 1);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 22 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 22 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -152,7 +188,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             WriteLiteral(">\r\n        <p>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 23 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 23 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 23 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -164,7 +204,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             WriteLiteral("</p>\r\n        <p>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 24 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 24 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -176,7 +220,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             WriteLiteral("</p>\r\n        <ul>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 26 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 26 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 26 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -189,7 +237,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             WriteLiteral("                <li>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 28 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 28 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 28 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -201,7 +253,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             WriteLiteral("</li>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 29 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 29 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -214,7 +270,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             WriteLiteral("        </ul>\r\n    </div>\r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 33 "C:\Users\conke\Desktop\Projects\C# Projects\ISTE-340\Project3_StarterCode\iste340-project3\Views\Home\Under.cshtml"
+=======
+#line 33 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
 #line 33 "C:\Users\Max Gerber\Documents\GitHub\iste340-project3\Views\Home\Under.cshtml"
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -224,7 +284,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
 #line hidden
 #nullable disable
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e9af3aee7bf48bd1cfead30a3d48a318044538596", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e9af3aee7bf48bd1cfead30a3d48a318044538041", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e9af3aee7bf48bd1cfead30a3d48a318044538041", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -242,7 +306,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8c4e9af3aee7bf48bd1cfead30a3d48a318044539635", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8c4e9af3aee7bf48bd1cfead30a3d48a318044539080", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "8c4e9af3aee7bf48bd1cfead30a3d48a318044539080", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
@@ -261,7 +329,11 @@ WriteAttributeValue("", 481, String.Concat("myDiv", under.degreeName), 481, 41, 
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< HEAD
+<<<<<<< HEAD
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e9af3aee7bf48bd1cfead30a3d48a3180445310750", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e9af3aee7bf48bd1cfead30a3d48a3180445310195", async() => {
+>>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8c4e9af3aee7bf48bd1cfead30a3d48a3180445310195", async() => {
 >>>>>>> d5fc0c116d01f2bad90c38d24dd59eb72106efa3
